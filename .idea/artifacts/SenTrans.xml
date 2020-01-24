@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SenTrans">
+    <output-path>$PROJECT_DIR$/out/artifacts/SenTrans</output-path>
+    <root id="archive" name="SenTrans.war" />
+  </artifact>
+</component>
